@@ -2,7 +2,8 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
 # Project-001 : Image Gallery
-[Click Me] (https://image-gallery-01.netlify.app)
+[Click Me!](https://image-gallery-01.netlify.app/)
+
 ## Description
 
 Project aims to create an image gallery app.
